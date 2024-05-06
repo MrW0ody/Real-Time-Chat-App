@@ -9,7 +9,7 @@ server.
 
 2.Clone this project to your computer.
 
-3.Install the required libraries by running pip install -r requirements.txt.
+3.Install the required libraries by running pip install -r requirements.txt
 
 4.Run the db.py file to create database to store your users
 
