@@ -1,7 +1,6 @@
 # Simple Client-Server Chat
 
-A simple client-server chat application written in Python, utilizing sockets for communication between clients and the
-server.
+The client-server chat application enables users to engage in real-time text communication. Users can register, log in, send messages to all users in the chat room, and execute special commands such as kicking a user from the chat, banning a user, and quitting the chat. Additionally, there is an option to grant administrator privileges to a user named "admin".
 
 ## How to Run the Application
 
